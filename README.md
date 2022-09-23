@@ -1,2 +1,3 @@
-# LurkinLemon
-Multifunctional GO Stealer with a Punch of Citric Acid!
+<img src="assets/banner.png">
+
+> Coming soon..
